@@ -1,0 +1,82 @@
+{
+    "project_name": "LLM-Powered Data Quality Assistant",
+    "generated_at": "2026-10-17T23:52:46.454609+05:30",
+    "dataset": {
+        "file_name": "synthetic_customers.csv",
+        "source": "Synthetic data generated using Python",
+        "rows": 2030,
+        "columns": 13,
+        "column_details": [
+            {
+                "column_name": "customer_id",
+                "data_type": "int64",
+                "missing_values": 0
+            },
+            {
+                "column_name": "first_name",
+                "data_type": "object",
+                "missing_values": 0
+            },
+            {
+                "column_name": "last_name",
+                "data_type": "object",
+                "missing_values": 0
+            },
+            {
+                "column_name": "email",
+                "data_type": "object",
+                "missing_values": 60
+            },
+            {
+                "column_name": "phone_number",
+                "data_type": "object",
+                "missing_values": 30
+            },
+            {
+                "column_name": "date_of_birth",
+                "data_type": "object",
+                "missing_values": 0
+            },
+            {
+                "column_name": "signup_date",
+                "data_type": "object",
+                "missing_values": 0
+            },
+            {
+                "column_name": "city",
+                "data_type": "object",
+                "missing_values": 0
+            },
+            {
+                "column_name": "state",
+                "data_type": "object",
+                "missing_values": 0
+            },
+            {
+                "column_name": "subscription_plan",
+                "data_type": "object",
+                "missing_values": 0
+            },
+            {
+                "column_name": "monthly_fee",
+                "data_type": "int64",
+                "missing_values": 0
+            },
+            {
+                "column_name": "payment_status",
+                "data_type": "object",
+                "missing_values": 26
+            },
+            {
+                "column_name": "last_payment_date",
+                "data_type": "object",
+                "missing_values": 0
+            }
+        ]
+    },
+    "quality_check": {
+        "checker": "quality_checker.py",
+        "total_findings": 440,
+        "original_dataset_modified": false
+    }
+}

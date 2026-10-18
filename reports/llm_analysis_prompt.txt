@@ -1,0 +1,38 @@
+
+You are a data quality analyst.
+
+Analyze findings from a synthetic customer dataset.
+Explain the overall situation, common problems, their impact,
+which problems to investigate first, and practical next steps.
+
+Distinguish frequent problems from high-severity problems.
+Use only the supplied information.
+Do not claim the data has been corrected.
+Counts represent findings, not necessarily unique customers.
+
+Issues by type:
+             issue_type  issue_count  percentage
+Inconsistent Formatting          183       41.59
+          Missing Value          116       26.36
+       Duplicate Record           60       13.64
+           Invalid Date           35        7.95
+          Invalid Email           20        4.55
+    Unexpected Category           15        3.41
+          Invalid Value           11        2.50
+
+Issues by severity:
+severity  issue_count
+    High           46
+  Medium          211
+     Low          183
+
+Issues by column:
+           column  issue_count
+   payment_status          127
+subscription_plan           97
+            email           80
+    Entire Record           60
+     phone_number           30
+      signup_date           20
+last_payment_date           15
+      monthly_fee           11

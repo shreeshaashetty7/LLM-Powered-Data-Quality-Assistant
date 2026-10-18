@@ -1,0 +1,441 @@
+record_number,customer_id,issue_type,column,current_value,severity,recommended_action
+75,100074,Missing Value,email,Missing,Medium,Review the missing value.
+79,100078,Missing Value,email,Missing,Medium,Review the missing value.
+138,100137,Missing Value,email,Missing,Medium,Review the missing value.
+146,100145,Missing Value,email,Missing,Medium,Review the missing value.
+173,100172,Missing Value,email,Missing,Medium,Review the missing value.
+179,100178,Missing Value,email,Missing,Medium,Review the missing value.
+224,100223,Missing Value,email,Missing,Medium,Review the missing value.
+225,100224,Missing Value,email,Missing,Medium,Review the missing value.
+230,100229,Missing Value,email,Missing,Medium,Review the missing value.
+236,100235,Missing Value,email,Missing,Medium,Review the missing value.
+238,100237,Missing Value,email,Missing,Medium,Review the missing value.
+246,100245,Missing Value,email,Missing,Medium,Review the missing value.
+262,100261,Missing Value,email,Missing,Medium,Review the missing value.
+327,100326,Missing Value,email,Missing,Medium,Review the missing value.
+344,100343,Missing Value,email,Missing,Medium,Review the missing value.
+377,100376,Missing Value,email,Missing,Medium,Review the missing value.
+379,100378,Missing Value,email,Missing,Medium,Review the missing value.
+413,100412,Missing Value,email,Missing,Medium,Review the missing value.
+415,100414,Missing Value,email,Missing,Medium,Review the missing value.
+458,100457,Missing Value,email,Missing,Medium,Review the missing value.
+470,100469,Missing Value,email,Missing,Medium,Review the missing value.
+527,100526,Missing Value,email,Missing,Medium,Review the missing value.
+537,100536,Missing Value,email,Missing,Medium,Review the missing value.
+585,100584,Missing Value,email,Missing,Medium,Review the missing value.
+588,100587,Missing Value,email,Missing,Medium,Review the missing value.
+672,100671,Missing Value,email,Missing,Medium,Review the missing value.
+796,100795,Missing Value,email,Missing,Medium,Review the missing value.
+810,100809,Missing Value,email,Missing,Medium,Review the missing value.
+817,100816,Missing Value,email,Missing,Medium,Review the missing value.
+962,100961,Missing Value,email,Missing,Medium,Review the missing value.
+982,100981,Missing Value,email,Missing,Medium,Review the missing value.
+1002,101001,Missing Value,email,Missing,Medium,Review the missing value.
+1021,101020,Missing Value,email,Missing,Medium,Review the missing value.
+1063,101062,Missing Value,email,Missing,Medium,Review the missing value.
+1100,101099,Missing Value,email,Missing,Medium,Review the missing value.
+1101,101100,Missing Value,email,Missing,Medium,Review the missing value.
+1138,101137,Missing Value,email,Missing,Medium,Review the missing value.
+1169,101168,Missing Value,email,Missing,Medium,Review the missing value.
+1307,101306,Missing Value,email,Missing,Medium,Review the missing value.
+1359,101358,Missing Value,email,Missing,Medium,Review the missing value.
+1396,101395,Missing Value,email,Missing,Medium,Review the missing value.
+1414,101413,Missing Value,email,Missing,Medium,Review the missing value.
+1422,101421,Missing Value,email,Missing,Medium,Review the missing value.
+1425,101424,Missing Value,email,Missing,Medium,Review the missing value.
+1466,101465,Missing Value,email,Missing,Medium,Review the missing value.
+1517,101516,Missing Value,email,Missing,Medium,Review the missing value.
+1560,101559,Missing Value,email,Missing,Medium,Review the missing value.
+1563,101562,Missing Value,email,Missing,Medium,Review the missing value.
+1622,101621,Missing Value,email,Missing,Medium,Review the missing value.
+1687,101686,Missing Value,email,Missing,Medium,Review the missing value.
+1708,101707,Missing Value,email,Missing,Medium,Review the missing value.
+1735,101734,Missing Value,email,Missing,Medium,Review the missing value.
+1754,101753,Missing Value,email,Missing,Medium,Review the missing value.
+1812,101811,Missing Value,email,Missing,Medium,Review the missing value.
+1815,101814,Missing Value,email,Missing,Medium,Review the missing value.
+1849,101848,Missing Value,email,Missing,Medium,Review the missing value.
+1907,101906,Missing Value,email,Missing,Medium,Review the missing value.
+1934,101933,Missing Value,email,Missing,Medium,Review the missing value.
+1948,101947,Missing Value,email,Missing,Medium,Review the missing value.
+1958,101957,Missing Value,email,Missing,Medium,Review the missing value.
+53,100052,Missing Value,phone_number,Missing,Medium,Review the missing value.
+118,100117,Missing Value,phone_number,Missing,Medium,Review the missing value.
+135,100134,Missing Value,phone_number,Missing,Medium,Review the missing value.
+144,100143,Missing Value,phone_number,Missing,Medium,Review the missing value.
+230,100229,Missing Value,phone_number,Missing,Medium,Review the missing value.
+295,100294,Missing Value,phone_number,Missing,Medium,Review the missing value.
+331,100330,Missing Value,phone_number,Missing,Medium,Review the missing value.
+378,100377,Missing Value,phone_number,Missing,Medium,Review the missing value.
+400,100399,Missing Value,phone_number,Missing,Medium,Review the missing value.
+463,100462,Missing Value,phone_number,Missing,Medium,Review the missing value.
+505,100504,Missing Value,phone_number,Missing,Medium,Review the missing value.
+591,100590,Missing Value,phone_number,Missing,Medium,Review the missing value.
+652,100651,Missing Value,phone_number,Missing,Medium,Review the missing value.
+689,100688,Missing Value,phone_number,Missing,Medium,Review the missing value.
+841,100840,Missing Value,phone_number,Missing,Medium,Review the missing value.
+900,100899,Missing Value,phone_number,Missing,Medium,Review the missing value.
+904,100903,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1062,101061,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1084,101083,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1096,101095,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1122,101121,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1142,101141,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1234,101233,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1286,101285,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1349,101348,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1404,101403,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1478,101477,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1729,101728,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1786,101785,Missing Value,phone_number,Missing,Medium,Review the missing value.
+1976,101975,Missing Value,phone_number,Missing,Medium,Review the missing value.
+16,100015,Missing Value,payment_status,Missing,Medium,Review the missing value.
+334,100333,Missing Value,payment_status,Missing,Medium,Review the missing value.
+448,100447,Missing Value,payment_status,Missing,Medium,Review the missing value.
+468,100467,Missing Value,payment_status,Missing,Medium,Review the missing value.
+495,100494,Missing Value,payment_status,Missing,Medium,Review the missing value.
+515,100514,Missing Value,payment_status,Missing,Medium,Review the missing value.
+586,100585,Missing Value,payment_status,Missing,Medium,Review the missing value.
+609,100608,Missing Value,payment_status,Missing,Medium,Review the missing value.
+660,100659,Missing Value,payment_status,Missing,Medium,Review the missing value.
+708,100707,Missing Value,payment_status,Missing,Medium,Review the missing value.
+810,100809,Missing Value,payment_status,Missing,Medium,Review the missing value.
+846,100845,Missing Value,payment_status,Missing,Medium,Review the missing value.
+875,100874,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1039,101038,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1088,101087,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1215,101214,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1233,101232,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1303,101302,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1313,101312,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1343,101342,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1508,101507,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1550,101549,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1690,101689,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1714,101713,Missing Value,payment_status,Missing,Medium,Review the missing value.
+1739,101738,Missing Value,payment_status,Missing,Medium,Review the missing value.
+2015,100585,Missing Value,payment_status,Missing,Medium,Review the missing value.
+31,100030,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+58,100057,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+67,100066,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+101,100100,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+130,100129,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+277,100276,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+355,100354,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+376,100375,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+586,100585,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+676,100675,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+748,100747,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+794,100793,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+907,100906,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+940,100939,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+966,100965,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1085,101084,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1120,101119,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1181,101180,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1275,101274,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1291,101290,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1294,101293,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1325,101324,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1335,101334,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1648,101647,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1666,101665,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1733,101732,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1854,101853,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1862,101861,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1924,101923,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+1983,101982,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2002,101861,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2003,100354,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2004,101334,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2005,100906,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2006,101290,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2007,101274,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2008,100939,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2009,101732,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2010,100066,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2011,101324,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2012,100057,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2013,101293,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2014,101119,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2015,100585,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2016,100375,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2017,100276,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2018,100747,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2019,100129,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2020,101647,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2021,101853,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2022,100675,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2023,101665,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2024,101982,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2025,101084,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2026,101923,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2027,100100,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2028,101180,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2029,100965,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2030,100793,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+2031,100030,Duplicate Record,Entire Record,Duplicate row,Medium,Review before removing the duplicate.
+9,100008,Invalid Date,signup_date,not-a-date,High,Verify the date.
+14,100013,Invalid Date,signup_date,not-a-date,High,Verify the date.
+37,100036,Invalid Date,signup_date,not-a-date,High,Verify the date.
+80,100079,Invalid Date,signup_date,not-a-date,High,Verify the date.
+121,100120,Invalid Date,signup_date,not-a-date,High,Verify the date.
+214,100213,Invalid Date,signup_date,not-a-date,High,Verify the date.
+295,100294,Invalid Date,signup_date,not-a-date,High,Verify the date.
+349,100348,Invalid Date,signup_date,not-a-date,High,Verify the date.
+480,100479,Invalid Date,signup_date,not-a-date,High,Verify the date.
+660,100659,Invalid Date,signup_date,not-a-date,High,Verify the date.
+760,100759,Invalid Date,signup_date,not-a-date,High,Verify the date.
+782,100781,Invalid Date,signup_date,not-a-date,High,Verify the date.
+1154,101153,Invalid Date,signup_date,not-a-date,High,Verify the date.
+1268,101267,Invalid Date,signup_date,not-a-date,High,Verify the date.
+1403,101402,Invalid Date,signup_date,not-a-date,High,Verify the date.
+1477,101476,Invalid Date,signup_date,not-a-date,High,Verify the date.
+1484,101483,Invalid Date,signup_date,not-a-date,High,Verify the date.
+1668,101667,Invalid Date,signup_date,not-a-date,High,Verify the date.
+1848,101847,Invalid Date,signup_date,not-a-date,High,Verify the date.
+1912,101911,Invalid Date,signup_date,not-a-date,High,Verify the date.
+42,100041,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+74,100073,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+153,100152,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+247,100246,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+461,100460,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+795,100794,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+1119,101118,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+1156,101155,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+1163,101162,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+1288,101287,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+1330,101329,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+1562,101561,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+1576,101575,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+1689,101688,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+1757,101756,Invalid Date,last_payment_date,2025-02-30,High,Verify the date.
+88,100087,Invalid Email,email,name@,Medium,Verify the email address.
+143,100142,Invalid Email,email,customer.example.com,Medium,Verify the email address.
+307,100306,Invalid Email,email,invalid-email,Medium,Verify the email address.
+406,100405,Invalid Email,email,customer.example.com,Medium,Verify the email address.
+451,100450,Invalid Email,email,invalid-email,Medium,Verify the email address.
+518,100517,Invalid Email,email,invalid-email,Medium,Verify the email address.
+787,100786,Invalid Email,email,invalid-email,Medium,Verify the email address.
+923,100922,Invalid Email,email,name@,Medium,Verify the email address.
+928,100927,Invalid Email,email,customer.example.com,Medium,Verify the email address.
+936,100935,Invalid Email,email,customer.example.com,Medium,Verify the email address.
+1067,101066,Invalid Email,email,customer.example.com,Medium,Verify the email address.
+1262,101261,Invalid Email,email,customer.example.com,Medium,Verify the email address.
+1300,101299,Invalid Email,email,invalid-email,Medium,Verify the email address.
+1400,101399,Invalid Email,email,invalid-email,Medium,Verify the email address.
+1561,101560,Invalid Email,email,customer.example.com,Medium,Verify the email address.
+1620,101619,Invalid Email,email,invalid-email,Medium,Verify the email address.
+1624,101623,Invalid Email,email,name@,Medium,Verify the email address.
+1626,101625,Invalid Email,email,invalid-email,Medium,Verify the email address.
+1703,101702,Invalid Email,email,name@,Medium,Verify the email address.
+1974,101973,Invalid Email,email,customer.example.com,Medium,Verify the email address.
+44,100043,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+89,100088,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+258,100257,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+274,100273,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+296,100295,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+297,100296,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+315,100314,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+330,100329,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+359,100358,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+428,100427,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+460,100459,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+466,100465,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+488,100487,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+514,100513,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+528,100527,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+580,100579,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+589,100588,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+616,100615,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+669,100668,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+693,100692,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+708,100707,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+724,100723,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+739,100738,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+746,100745,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+755,100754,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+792,100791,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+794,100793,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+797,100796,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+818,100817,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+825,100824,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+833,100832,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+842,100841,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+857,100856,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+864,100863,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+886,100885,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+911,100910,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+922,100921,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+928,100927,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+932,100931,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+933,100932,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+943,100942,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+945,100944,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+951,100950,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+977,100976,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+983,100982,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+1006,101005,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+1087,101086,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+1100,101099,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+1110,101109,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+1172,101171,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+1256,101255,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+1263,101262,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+1285,101284,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+1305,101304,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+1306,101305,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+1322,101321,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+1364,101363,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+1400,101399,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+1406,101405,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+1457,101456,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+1483,101482,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+1499,101498,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+1504,101503,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+1517,101516,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+1534,101533,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+1651,101650,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+1722,101721,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+1746,101745,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+1803,101802,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+1808,101807,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+1811,101810,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+1842,101841,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+1866,101865,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+1867,101866,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+1884,101883,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+1921,101920,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+1930,101929,Inconsistent Formatting,subscription_plan, basic ,Low,Review spaces and capitalization.
+1952,101951,Inconsistent Formatting,subscription_plan,premium ,Low,Review spaces and capitalization.
+1974,101973,Inconsistent Formatting,subscription_plan,STANDARD,Low,Review spaces and capitalization.
+1983,101982,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+2024,101982,Inconsistent Formatting,subscription_plan, FAMILY ,Low,Review spaces and capitalization.
+2030,100793,Inconsistent Formatting,subscription_plan,sTaNdArD,Low,Review spaces and capitalization.
+34,100033,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+42,100041,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+50,100049,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+82,100081,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+143,100142,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+172,100171,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+176,100175,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+200,100199,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+229,100228,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+234,100233,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+278,100277,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+279,100278,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+302,100301,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+308,100307,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+326,100325,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+348,100347,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+351,100350,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+364,100363,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+374,100373,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+395,100394,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+405,100404,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+512,100511,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+519,100518,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+575,100574,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+577,100576,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+600,100599,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+616,100615,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+654,100653,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+658,100657,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+697,100696,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+706,100705,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+728,100727,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+744,100743,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+749,100748,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+759,100758,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+778,100777,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+782,100781,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+808,100807,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+841,100840,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+857,100856,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+905,100904,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+913,100912,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+918,100917,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+963,100962,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+970,100969,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+978,100977,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+1004,101003,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1009,101008,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1015,101014,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+1053,101052,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1067,101066,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+1133,101132,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+1152,101151,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1162,101161,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1173,101172,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1199,101198,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+1202,101201,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1210,101209,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+1236,101235,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+1275,101274,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+1280,101279,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1289,101288,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+1300,101299,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1361,101360,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1371,101370,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1377,101376,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1389,101388,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1411,101410,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+1415,101414,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1435,101434,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+1458,101457,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+1549,101548,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+1573,101572,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+1612,101611,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1621,101620,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1625,101624,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1639,101638,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1677,101676,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+1738,101737,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+1745,101744,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1804,101803,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1815,101814,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1817,101816,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1826,101825,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1832,101831,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+1852,101851,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+1853,101852,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1857,101856,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1864,101863,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+1877,101876,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1879,101878,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+1908,101907,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+1916,101915,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1938,101937,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+1940,101939,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1945,101944,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1968,101967,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1971,101970,Inconsistent Formatting,payment_status, PENDING ,Low,Review spaces and capitalization.
+1989,101988,Inconsistent Formatting,payment_status,paid,Low,Review spaces and capitalization.
+2001,102000,Inconsistent Formatting,payment_status,FAILED,Low,Review spaces and capitalization.
+2007,101274,Inconsistent Formatting,payment_status,paid ,Low,Review spaces and capitalization.
+211,100210,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+246,100245,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+320,100319,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+337,100336,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+344,100343,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+612,100611,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+641,100640,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+887,100886,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+1141,101140,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+1202,101201,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+1324,101323,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+1711,101710,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+1879,101878,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+1922,101921,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+1943,101942,Unexpected Category,subscription_plan,Gold,Medium,Check whether this plan is approved.
+128,100127,Invalid Value,monthly_fee,-100,High,Verify the fee against approved pricing.
+130,100129,Invalid Value,monthly_fee,-100,High,Verify the fee against approved pricing.
+134,100133,Invalid Value,monthly_fee,-100,High,Verify the fee against approved pricing.
+332,100331,Invalid Value,monthly_fee,-100,High,Verify the fee against approved pricing.
+517,100516,Invalid Value,monthly_fee,-100,High,Verify the fee against approved pricing.
+578,100577,Invalid Value,monthly_fee,-100,High,Verify the fee against approved pricing.
+1401,101400,Invalid Value,monthly_fee,-100,High,Verify the fee against approved pricing.
+1546,101545,Invalid Value,monthly_fee,-100,High,Verify the fee against approved pricing.
+1825,101824,Invalid Value,monthly_fee,-100,High,Verify the fee against approved pricing.
+1984,101983,Invalid Value,monthly_fee,-100,High,Verify the fee against approved pricing.
+2019,100129,Invalid Value,monthly_fee,-100,High,Verify the fee against approved pricing.
